@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Souravsuvro
-- 👀 I’m interested in programming!
-- 🌱 I’m currently learning javascript!
-- 💞️ I’m looking to collaborate on javascript!
-- 📫 How to reach me ...my email...souravsuvro@yahoo.com
+- 👀 I’m a front-end web developer!
+- 🌱 I’m currently learning the javascript framework React JS!
+- 💞️ I’m looking to collaborate on React JS!
+- 📫 How to reach me ...my email...souravsuvro007@gmail.com
 
 <!---
 Souravsuvro/Souravsuvro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
