@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Souravsuvro
 - 👀 I’m a front-end web developer!
-- 🌱 I’m currently learning the javascript framework React JS!
-- 💞️ I’m looking to collaborate on React JS!
+- 🌱 I’m currently working with React JS, Next JS!
+- 💞️ I’m looking to collaborate on React JS, NEXT JS!
 - 📫 How to reach me ...my email...souravsuvro007@gmail.com
 
 <!---
