@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Souravsuvro
 - 👀 I’m a full-stack web developer with high-level design expertise!
-- 🌱 I’m currently working with React JS, Next JS!
-- 💞️ I’m looking to collaborate on React JS, NEXT JS!
+- 🌱 I’m currently working with React JS, Next JS & Node JS!
+- 💞️ I’m looking to collaborate on React JS, NEXT JS & Node JS!
 - 📫 How to reach me ...my email...souravsuvro007@gmail.com
 
 <!---
