@@ -24,7 +24,7 @@ I am a **Full-Stack Web Developer** blending high-level design expertise with a 
 ### 🌐 Connect With Me
 
 * 💼 **Portfolio & Blog:** [(https://vercel.app](https://my-personal-blog-ivory.vercel.app/))
-* 📧 **Email:** [souravsuvro007@gmail.com](mailto:souravsuvro007@gmail.com)
+* 📧 **Email:** [souravsuvro007@gmail.com](mailto:souravsuvra007@gmail.com)
 
 ---
 
