@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sourav Sarker Suvra (/mostly known as Sourav Suvra)
+# 👋 Hi, I'm Sourav Sarker Suvra (mostly known as Sourav Suvra)
 
 I am a **Full-Stack Web Developer** blending high-level design expertise with a strong background in digital marketing. I specialize in building scalable, type-safe web applications and crafting clean user experiences.
 
